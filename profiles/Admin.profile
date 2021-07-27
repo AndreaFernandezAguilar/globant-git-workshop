@@ -261,11 +261,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Contact.LeadSource</field>
+    <field>Contact.LeadSource</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.Level__c</field>
         <readable>false</readable>
     </fieldPermissions>
